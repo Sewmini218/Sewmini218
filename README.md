@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, AI**
 
+...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
