@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sewmini Fernando</h1>
 <h3 align="center">A passionate Data Science from Sri Lanka, exploring the fields of Deep Learning, Machine Learning, and AI</h3>
 
+---
+
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, AI**
-
-...
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
